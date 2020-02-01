@@ -4,7 +4,7 @@
 ---
 - Source signals  
 This folder contains the clean source signals.
-- mixture_03m(-60)_1m(60)_200ms  
+- Mixture_03m(-60)_1m(60)_200ms  
 This folder contains the 100 mixtures tested in the 1st simulation. 
 The filename stands for: 'name of Source 1'-'name of Source 2'-'input SIR of Channel 1'-'input SIR of Channel 2'.   
 Here Source 1 is SOI.
